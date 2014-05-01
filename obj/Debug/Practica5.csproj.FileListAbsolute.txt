@@ -1,0 +1,7 @@
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\bin\Debug\Practica5.exe
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\obj\Debug\Practica5.MainForm.resources
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\obj\Debug\Practica5.csproj.GenerateResource.Cache
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\obj\Debug\Practica5.exe
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\obj\Debug\Practica5.pdb
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Practica5\obj\Debug\Practica5.csprojResolveAssemblyReference.cache
